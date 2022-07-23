@@ -1,0 +1,209 @@
+\documentclass[11pt,a4paper,sans]{muratcan_cv}
+\usepackage{adjustbox}
+\usepackage{graphicx}
+\frenchspacing              % Better looking spacings after periods
+\pagestyle{empty}
+
+\addtolength{\topmargin}{0.5in}
+\addtolength{\textheight}{-1in}
+\addtolength{\textwidth}{-0.2in}
+\setname{\textbf{Tayebeh Haghtalab}}{\textbf{}}
+\setaddress{Mashhad/Iran}
+\setmobile{(+98)915 525 2897}
+\setmail{haghtalab1542@gmail.com}
+\setposition{Work Student} %ignored for now
+\setlinkedinaccount{https://www.linkedin.com/in/tayebe-haghtalab-20636742/} %you can play with color of the template (blue is also nice..)
+\setgithubaccount{https://github.com/Tayebe3582} %you can play with color of the template (blue is also nice..)
+\setthemecolor{blue} %you can play with color of the template (blue is also nice..)
+\usepackage{ragged2e} % provides \justifying
+
+
+\begin{document}
+%Set variables
+%You can add sections, texts, explanations just by copying the style below. Replace the dummy texts "\lipsum[1][x-x]\par" with actual texts.
+%Create header
+\headerview
+\vspace{1ex}
+%Sections
+%
+\section{HIGHLIGHTS}
+\vspace{0.5em}
+\begin{itemize}
+\item Medical radiation physicist with about 9 years of professional experience in Nuclear Medicine and Radiology department.
+\item Solid knowledge about Radiation Protection, Cyclotron, PET/CT and MRI physics and Imaging.
+\item Team player skills and enthusiasm to work in a multi-disciplinary, collaborative environment.
+\item Desire for lifelong learning to enhance experience and skills. 
+\end{itemize}
+%Education
+
+\section{Education}
+\vspace{0.5em}
+\begin{itemize}
+		\item\textbf{Master of Atomic Molecular Physics} \hfill  2008-2011 \\
+		\href{https://birjand.ac.ir/}{\adjustbox{valign=c}{‎\includegraphics[scale=0.14]{images/birjand.png}} \emph{University of Birjand}}  \hfill \emph{Birjand-Iran}
+
+		\begin{itemize}
+  \item{Thesis Title: Filamentation Instability of a Current-Carrying Dusty Plasma }\hspace{10 pt}  \hspace{10 pt}
+      \end{itemize}
+      \begin{itemize}
+      \item{Supervisor: Prof. Alireza Niknam/ The results from this thesis: Published 2 ISI paper and 1 conference paper }
+      \item Successfully passed (GPA:15.85 out of 20). Two last semester (GPA:19.26 out of 20)
+		\end{itemize}
+	\vspace{1em}
+
+ 		\item \textbf{Bachelor of Applied Physics} \hfill 2000-2003 \\
+ 		\href{http://pnum.ac.ir//}{\adjustbox{valign=c}{‎\includegraphics[scale=0.14]{images/payame noor.jpg}} \emph{Payame Noor University of Mashhad}} \hfill \emph{Mashhad-Iran}
+		
+ 		\begin{itemize}
+ 			\item Completed 136 credits. (GPA 15.75 out of 20)
+ 		\end{itemize}	
+         \begin{itemize}
+	      \item Ranked the top student among 60+ physic students admitted in 2000
+          \end{itemize}
+
+
+
+\end{itemize}
+%%%%%%%%--------------------------------------
+\section{WORK EXPERIENCE}
+\vspace{0.5em}
+\begin{itemize}
+
+\item \href{http://razavihospital.com/}{\adjustbox{valign=c}{‎\includegraphics[scale=0.14]{images/RAZAVI.png}} \emph{RAZAVI HOSPITAL}} \hfill  2013-Present
+
+ \textbf{Medical Physicist}
+
+8+ years progressive experience in nuclear medicine and radiology department:
+\begin{itemize}
+\item Radiation Safety Officer.
+\item Expert in MRI Physics and Imaging. 
+\item Specialist in PET-CT imaging 
+\item Run of medical cyclotron for production of radiopharmaceutical based on $^{18}F $.
+\item Synthesis of $^{18}F $-labeled and $^{68}Ga $-labeled radiopharmaceuticals.
+\item Patient dosimetry for radionuclide therapy and supervision of the decay system of radionuclide therapy station. 
+\item Solid expertise in Lithotripsy and proficient with application of ESWL performing both fluoroscopy and ultrasound.
+
+\end{itemize}
+\end{itemize}
+ %%%%%%%%%%%-------------------------------------------------
+\section{RESEARCH INTEREST}
+\vspace{0.5em}
+\begin{itemize}
+\item Magnetic Resonance Imaging (MRI)
+\item Positron Emission Tomography (PET/CT $\&$ PET/MR)
+\item Nuclear Medicine, Radiation Protection and Dosimetry.
+\item Radiation therapy
+   \end{itemize}
+
+
+%%%%-----------------------------------------
+\section{TEACHING EXPERIENCE}
+\vspace{0.5em}
+
+\begin{itemize}
+\item\textbf{Lecturer}\hfill 2012-2015
+
+{\adjustbox{valign=c}{‎\includegraphics[scale=0.14]{images/payame noor.jpg}} \emph{Payame Noor University of Mashhad}}
+\begin{itemize}
+\item Analytical Mechanics (Grant R Fowels)
+\item Teaching Physics courses: Mechanical Physics and Physics of Electricity
+\end{itemize}
+\vspace{0.5em}
+
+\item\textbf{Lecturer}\hfill 2011-2014
+
+{\adjustbox{valign=c}{‎\includegraphics[scale=0.14]{images/uast.png}} \emph{University of Applied Science and Technolog}}
+\begin{itemize}
+\item Teaching Physics courses: Basic Physics
+\end{itemize}
+
+\vspace{0.5em}
+\item\textbf{Teacher assistant}\hfill 2010-2011
+
+{\adjustbox{valign=c}{‎\includegraphics[scale=0.14]{images/birjand.png}} \emph{University of Birjand}}
+\begin{itemize}
+\item Basic Physics II (David Halliday, Robert Resnick, Kenneth Krane)
+  \end{itemize}
+\end{itemize}
+
+
+
+
+
+
+%%%%-----------------------------------------
+\section{Publication}
+\vspace{0.5em}
+\begin{itemize}
+
+\item "Filamentation instability of current-driven dust ion-acoustic waves in a collisional dusty plasma"\\ {{A.R. Niknam,\textbf{T. Haghtalab} and S.M. Khorashadizadeh}. 2011} \textit{American Institute of Physics} \\ {\textcolor{gray} {AIP: \href{https://doi.org/10.1063/1.3662103}{Physics of Plasmas }}}
+
+\item "Dust acoustic filamentation of a current-driven dusty plasma"\\ {{A.R. Niknam,S.M. Khorashadizadeh and \textbf{T. Haghtalab}}. 2011 \textit{American Institute of Physics}} \\ {\textcolor{gray}{AIP: \href{https://doi.org/10.1063/1.3593391}{Physics of Plasmas}}}
+
+\item "Filamentation instability of dust acoustic wave in a collisional plasma with a variable charge" \\
+{\textbf{T. Haghtalab} A.R. Niknam and S.M. Khorashadizadeh. 2012,}\\ {\textit{Iranian Journal of Physics Researches.}}
+    \end{itemize}
+
+%%%%------------------------------------------------------
+\section{CONFERENCES}
+\vspace{0.5em}
+\begin{itemize}
+
+\item "Clinical comparison of $^{18}F $-FET vs. $^{18}F $-FDG in patients with low and high grade glioblastoma".{F. Dehghani Sani,\textbf{T. Haghtalab} and H.A.Dadgar}.2017, \textcolor{black}\\ {Italy: \href{https://www.omicsonline.org/conference-proceedings/2155-9619-C1-011-012.pdf}{2nd International Conference on Nuclear Medicine and Radiation Therapy}}
+\item "$21^{st}$ Annual and $6^{th}$ International congress of Nuclear Medicine and Molecular Imaging". 2017, Iran.
+Participated in workshop "Quality Control and Quality Assurance of Hybrid Imaging Instruments (PET-CT and SPECT) in Nuclear Medicine"
+\item "The First International Razavi Cancer Congress". 2016, Iran
+\item "$17^{th}$ Iranian Conference on Optics and Photonics". 2011, Iran
+ \end{itemize}
+
+
+
+
+ %%%%%%%%%%--------------------
+\section{CERTIFICATE}
+\vspace{0.5em}
+ \begin{itemize}
+\item {\adjustbox{valign=c}{‎\includegraphics[scale=0.1]{images/IOMP.jpeg}}} {IOMP Webinar 2022 for Medical Physicist.}
+ \item {\adjustbox{valign=c}{‎\includegraphics[scale=0.1]{images/iaea.png}}}{IAEA National Training Course on Regulatory Control of PET/CT and Cyclotron.}
+ \item {\adjustbox{valign=c}{‎\includegraphics[scale=0.1]{images/iran.png}}}{Advanced Radiation Protection for Medical Centers.}
+ \item {\adjustbox{valign=c}{‎\includegraphics[scale=0.1]{images/iran.png}}}{Basics Radiation Protection for Medical Centers.}
+   \end{itemize}
+%%% ------------------------------------------------------------
+\section{HONORS}
+\vspace{0.5em}
+\begin{itemize}
+\item Offered exam-free admission to PhD program in Plasma Physics at Birjand University 2012.
+\item First ranked student in undergraduate program in the Physics department at PNUM 2003.
+ \end{itemize}
+%
+
+
+\section{Skills}
+\vspace{0.5em}
+    %
+\begin{itemize}
+\item \textbf{Programming and OS:}\hspace{10 pt}{\textsc{Linux}, \hspace{5 pt}{\textsc{Python},\hspace{5 pt} \textsc{Latex}, \hspace{5 pt}\textsc{Origin}, \hspace{5 pt}\textsc{Fortran}, \hspace{5 pt}\textsc{ML (developing)}}
+\item \textbf{Languages}\hspace{10 pt}  {\textsc{Persian (Native)} ,\hspace{5 pt} \textsc{English (Fluent)} }
+\end{itemize}
+
+%
+\section{REFERENCES}
+\vspace{0.5em}
+%
+\begin{itemize}
+\item \textbf{Prof. Alireza Niknam}, Professor of Physics at Laser and Plasma Research Institute,\\ Shahid Beheshti University, Tehran, Iran.\\
+E-mail: \textit{a-niknam@sbu.ac.ir}\\
+Phone: \textit{ (+98)9127081739}
+\item \textbf{Prof. Seyed Mohammad Khorashadizadeh}, {Professor of Physics, Birjand University, Birjand, Iran.}\\
+E-mail: \textit{smkhorashadi@birjand.ac.ir}\\
+Phone: \textit{ (+98)9151635907}
+\item \textbf{Dr. Nasim Norouzbeigi}, Head Department of Nuclear Medicine, Razavi Hospital, Mashhad, Iran.\\
+E-mail: \textit{Norouzbeiginasim1@gmail.com}\\
+Phone: \textit{ (+98)9126452012}
+
+\end{document}
+%%%
+%
+%
+%Footnote
+
